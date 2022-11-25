@@ -43,5 +43,4 @@ def tone_recognition(comment):
     else:
         return "Положительный комментарий"
 
-print(tone_recognition("молодцы так держать"))
 
